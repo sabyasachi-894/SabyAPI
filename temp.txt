@@ -1,0 +1,5 @@
+username:sabyasachi
+pwd: JCZ8iyJhJiG4y8ZN
+
+
+mongodb+srv://sabyasachi:JCZ8iyJhJiG4y8ZN@sabyapi.hjr9rxx.mongodb.net/?retryWrites=true&w=majority
